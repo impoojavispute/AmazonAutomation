@@ -19,6 +19,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 public class Login {
 
     WebDriver driver;
+    
     protected static ExtentReports extent;
 	protected static ExtentTest test;
 	
